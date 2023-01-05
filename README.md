@@ -6,4 +6,4 @@ I am a French web developer.
 
 [Reach me !](https://clementpommerie.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementp0&layout=compact&hide=html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementp0&layout=compact&hide=css,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
