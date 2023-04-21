@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Clément POMMERIE, nice to meet you.
+My name is Clément, nice to meet you.
 
 I am a French web developer.
 
