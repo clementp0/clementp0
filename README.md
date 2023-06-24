@@ -18,9 +18,9 @@ I am a French web developer.
   <img alt="Code" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/website.svg?label=Resume&style=flat-square&down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fclementpommerie.com">
-  <img src="https://img.shields.io/website.svg?label=a2urbex&style=flat-square&down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fa2urbex.eu">
-  <img src="https://img.shields.io/website.svg?label=FABBBR&style=flat-square&down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2fabbbr.com">
+  <a href="https://clementpommerie.com" target="_blank"><img src="https://img.shields.io/website.svg?label=Resume&style=flat-square&down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fclementpommerie.com"></a>
+  <a href="https://a2urbex.eu" target="_blank"><img src="https://img.shields.io/website.svg?label=a2urbex&style=flat-square&down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fa2urbex.eu"></a>
+  <a href="https://fabbbr.com" target="_blank"><img src="https://img.shields.io/website.svg?label=FABBBR&style=flat-square&down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2fabbbr.com"></a>
 </p>
 <hr>
 <p align="center">
