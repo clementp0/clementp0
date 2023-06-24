@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋</h1>
 <p align="center">
 My name is Clément, nice to meet you.<br>
-I am a French web developer.<br>
+I am a French web developer.
 </p>
  <h1></h1>
 <p align="center">📫 Reach me on </p>
