@@ -26,5 +26,5 @@ I am a French web developer.
 <p align="center"><b> 📈 Stats </b></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clementp0&show_icons=true&theme=transparent&hide=contribs"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementp0&layout=compact&hide=css,html&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementp0&layout=compact&hide=liquid,css,html&theme=transparent">
 </p>
