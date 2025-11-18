@@ -6,7 +6,6 @@ I am a French web developer.
 </p>
 <p align="center"><b>📫 Reach me on </b></p>
 <p align="center">
-  <a href="https://github.com/clementp0" target="_blank"><img alt="Code" src="https://img.shields.io/badge/GitHub-A41CFE?style=flat-square&logo=github&logoColor=white" height="25"></a>
   <a href="https://clementpommerie.com" target="_blank"><img alt="website" src="https://img.shields.io/badge/website-1C1C1C?style=flat-square&logo=About.me&logoColor=white" height="25"></a>
   <a href="https://www.linkedin.com/in/cl%C3%A9ment-pommerie-a87004150" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25"></a></p>
 <h1></h1>
